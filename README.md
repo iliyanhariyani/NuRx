@@ -19,7 +19,7 @@ NuRx is a web application designed to provide comprehensive information about po
   - [OpenFDA API](https://open.fda.gov) for comprehensive drug information
 
 ## Installation
-Clone the repository and open the `index.html` file in a web browser.
+Clone the repository and open the `interaction.html` file in a web browser.
 ```bash
 git clone https://github.com/iliyanhariyani/NuRx.git
 cd NuRx
